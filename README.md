@@ -39,3 +39,7 @@ This was made because someone leaked a HUD from a well known server (New Leaf) a
 ## **Original Author & Credits**
 - FULL credits go to [svdden](https://github.com/RealSvdden) for the original HUD inspiration and design.
 - All new features, visual improvements, and code refactors by community contributors and AI assistance (2024).
+
+<img width="325" height="128" alt="Screenshot_15" src="https://github.com/user-attachments/assets/9027d7cf-fb80-4c68-9884-89475b3eefbe" />
+<img width="479" height="176" alt="Screenshot_13" src="https://github.com/user-attachments/assets/2dea96be-10ff-48c8-a0c2-298d93b637ec" />
+
