@@ -12,7 +12,7 @@ This was made because someone leaked a HUD from a well known server (New Leaf) a
 
 - https://imgur.com/wGpM7Gz
 
-## **Changelog & Enhancements (2024)**
+## **Changelog & Enhancements**
 
 ### Visual Improvements
 - Updated all status icons (Health, Armour, Hunger, Thirst, Stamina) with:
